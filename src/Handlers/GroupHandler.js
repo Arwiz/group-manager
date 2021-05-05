@@ -2,7 +2,7 @@
 export default  {
     // Get Handler () Fetch All records
     FetchAllHandler: (req, res) => {
-        res.send('This is form the Fetch All Handler');
+        res.send('This is form the Fetch All Handler: For Automated Test');
     },
     // POST  Create Handler
     CreateHandler: (req, res) => {
